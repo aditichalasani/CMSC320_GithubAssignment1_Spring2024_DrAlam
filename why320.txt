@@ -1,0 +1,8 @@
+"Why are you interested in taking CMSC320?"
+
+I am interested in taking Cmsc320 as I felt that this is a very useful class in understanding 
+the fundamentals of data science. CMSC320 builds a solid foundation of knowledge that 
+one can then build upon to get farther into the field of data science. Additionally, I 
+am a computer science major with a business analytics minor and I feel that this class 
+perfectly involves these two fields of studies. It shows me how these two discplines can 
+work together.
